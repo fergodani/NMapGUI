@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/discord/357162772108148736.svg?colorB=7282ea)](https://discord.gg/5s6kUA6)
 
 
-NMapGUI is an advanced graphical user interface for NMap network analysis tool. It allows to extend and ease the typical usage of NMap by providing a visual and fast interface with the application
+NMapGUI is an advanced graphical user interface for NMap network analysis tool. dIt allows to extend and ease the typical usage of NMap by providing a visual and fast interface with the application
 
 **THIS PROJECT IS CURRENTLY UNMAINTAINED** 
 
